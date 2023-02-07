@@ -1,0 +1,5 @@
+time: 30
+minNumber: 5
+maxNumber: 50
+createMath: "&bDziałanie matematyczne: &3%numberOne% %operation% %numberTwo%"
+solvedMath: "&aDziałanie zostało rozwiązane przez &2%player%, &apoprawny wynik to &2%result%"
